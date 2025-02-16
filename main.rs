@@ -1,6 +1,8 @@
 mod is_ai;
 use is_ai::is_ai;
 
+// Compile and run:
+// rustc main.rs && ./main
 fn main() {
     let test_strings = [
       "Ah, I see the issue", // AI
